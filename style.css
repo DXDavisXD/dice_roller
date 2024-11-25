@@ -1,0 +1,54 @@
+#f1{
+    background-color: hsl(180, 100%, 50%);
+    margin: auto;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#topHalf{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+input{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 10px;
+    border-width: 5px;
+}
+button{
+    background-color: hsl(120, 100%, 42%);
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: hsl(160, 100%, 51%);
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsla(120, 100%, 32%, 0.582);
+    transition: all 0.3s ease-in-out;
+}
+button:active{
+    background-color: hsl(160, 100%, 51%);
+}
+
+#umm{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#f2{
+    background-color: hwb(0 100% 0%);
+    padding-top: 20px;
+}
+#bottomHalf{
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    background-color: aquamarine;
+    max-width: 550px;
+}
+#diceImages img{
+    width: 110px;
+    margin: 5px;
+}
